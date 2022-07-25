@@ -1,0 +1,279 @@
+*{
+    margin:0;
+    padding: 0;
+}body{
+    font-family: Heebo, Roboto, sans-serif;
+}
+.header{
+    width:100%;
+    height:80px;
+    background:black;
+    color:white;
+}.jeeplogo{
+    padding-left: 30px;
+    padding-top:0;
+    font-size: 47px;
+}.toptext{
+    padding-left: 30px;
+    padding-top: 15px;
+    font-size: 13px;
+
+}.button1{
+    background: yellow;
+    width:110px;
+}
+.jeepimg{
+    width:100%;
+    height: 550px;
+    background-image:url("https://www.jeep-india.com/content/dam/cross-regional/apac/jeep/en_in/meridian/new-images-meridian/home-banner/home-1st-1550x661.jpg.img.1440.jpg") ;
+    background-size:  cover;
+   
+}.transbox{
+    width:440px;
+    height:310px;
+    background: black;
+    /* opacity: 0.4; */
+    /* background: transparent; */
+    margin-left: 780px;
+    float: right;
+    margin-right: 100px;
+
+    margin-top: 175px; 
+    z-index: 1;
+    
+}span{
+    display: block;
+}.transboxtext1div1{
+    width:440px;
+    height:150px;
+    color:white;
+    
+   
+    opacity: 0.4;
+} 
+
+
+
+
+
+
+
+.transboxtext1{
+    color:white;
+    padding-top: 25px;
+    font-size: 30px;
+    font-weight: 600;
+    z-index: 1;
+}.transboxtext2{
+    color:white;
+    padding-top: 25px;
+    font-size: 15px;
+    
+    margin-right: 238px;
+
+
+}.transboxtext3{
+    color:white;
+    padding-top: 25px;
+    font-size: 30px;
+    margin-right: 217px;
+
+}
+
+
+
+.jeepimgtext{
+    width:445px;
+    height:310px;
+}
+
+
+.cars3img{
+    display: flex;
+    width:100%;
+    height:300px;
+    font-size: 13px;
+}
+.car1{
+    width:33%;
+    
+    background:white;
+}.car2{
+    width:34%;
+    
+    background:white;
+}.car3{
+    width:33%;
+   
+    background:white;
+}h2{
+    text-align:center;
+}.jeepvhcls{
+    width:100%;
+    height:70px;
+    background:white;
+}.jeepvhclstext{
+    font-size: 24px;
+    padding-top: 30px;
+
+}
+
+
+
+.jeepadv{
+    height:190px;
+    width:100%;
+    background:black;
+    color:white;
+}.jeepadvtext{
+    padding-top:15px;
+    font-size:14px;
+}
+
+
+
+h1{
+    text-align: center;
+    padding-top: 30px;
+}p{
+    text-align: center;
+}.jeepimg img{
+    width: 100%;
+    height:100%;
+}.precimg4{
+    width:100%;
+    height:150px;
+    background:black;
+}.linesimg{
+    width:100%;
+    height:68px;
+    background:black;
+}.main3logo{
+    width:100%;
+    height:450px;
+    display:flex;
+    background: #d1d1d1;
+    
+    
+}.firstlogo{
+    width:33%;
+    background:white;
+    
+    border-color: white;
+    margin:15px;
+    
+     
+}.secondlogo{
+    width:33%;
+    background:white; 
+    margin-top:15px;
+    margin-bottom:15px;
+    
+    
+    
+    
+}.thirdlogo{
+    width:33%;
+    background:white; 
+    margin:15px;
+    
+    
+}.linkunderimage{
+    
+    margin-left: 350px;
+    font-size: 15px;
+}
+
+
+.main3logo img{
+    width: 470px;
+
+}.footer{
+    width:100%;
+    height:120px;
+    display:flex;
+    
+}.footersec1{
+    width:70%;
+    background:#808080;
+}.footersec2{
+    width:30%;
+    
+    background:#808080;
+   
+
+}.coltext{
+    padding-top:10px;
+    font-weight:200;
+    font-size: 13px;
+    
+}.search-class{
+    width: 250px;
+    height: 32px;
+    margin-top: -px;
+}
+    
+    
+.search1{
+    width: 240px;
+    height: 50px;
+    float:left;
+    padding-top:40px;
+    display: flex;
+   
+    
+
+    
+    
+}
+.jeepdetails{
+    width:100%;
+    height:270px;
+    color:white;
+    background:black;
+    display:flex;
+    
+}.col1{
+    width:20%;
+    
+
+
+}
+.col2{
+    width:20%;
+   
+}
+.col3{
+    width:20%;
+    
+}
+.col4{
+    width:20%;
+    
+    }
+.col5{
+    width:20%;
+}.dotremoval{
+    list-style: none;
+    padding-top: 55px;
+    padding-left: 40px;
+}
+
+.footersec1 td{
+    margin-left: 50px;
+    padding-left:70px;
+    padding-top:40px; 
+    color:white;
+}.btn{
+    margin-left: -6px;
+    background:yellow;
+    border: none;
+    width:70px;
+    height:32px;
+}
+
+
+
+
+
+
